@@ -1,0 +1,5 @@
+name: MiniJeux
+version: '${version}'
+main: fr.silenthill99.minijeux.Main
+api-version: 1.16
+authors: [ silenthill99, lolo ]
